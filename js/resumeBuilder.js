@@ -1,3 +1,3 @@
 /*
-$ ("#main".append ([Paul Compton]);
+$ ("#main".append (Paul Compton);
  */
